@@ -1,7 +1,6 @@
-# Headphones Automation <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f63a/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f63a/512.gif" alt="😺" width="32" height="32">
-</picture>
+<h1 align="center">Headphones Automation <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Weary%20Cat.png" alt="Weary Cat" width="45" height="45" /></h1>
+
+
 
 
 ---
