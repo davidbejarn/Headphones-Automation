@@ -10,7 +10,7 @@
 ## 1. Clonar repositorio
 ```bash
 git clone https://github.com/TU_USUARIO/diademas-automation.git
-cd diademas-automation
+cd HeadphonesAutomation-main
 ```
 
 ## 2. Entorno virtual (Recomendado, pero no es necesario)
