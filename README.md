@@ -6,7 +6,7 @@
 ---
 
 ## ⚡ Instalación y uso
-
+### Abre PowerShell o Linea de comandos
 ## 1. Clonar repositorio
 ```bash
 git clone https://github.com/TU_USUARIO/diademas-automation.git
